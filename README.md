@@ -17,7 +17,6 @@ Youtube Link - https://youtu.be/2UIUWEUmXC8
 4. Run the Code by updating the main() as you would like.(More information in the Video)
 
 **A brief Explaination of each function:**
-I have created a python application, with the help of online resources such as google and chatGPT, with the following functions:
 1. connect(): This function connects to your Database using the provided db_params.
 2. getAllStudents(): Retrieves and displays all records from the students table.
 3. addStudent(): Inserts a new student record into the students table with the information passed as the function's arguments
