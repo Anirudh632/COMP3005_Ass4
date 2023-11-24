@@ -4,9 +4,9 @@ from datetime import date
 
 # Database connection parameters
 db_params = {
-    'dbname': 'Assignment4', # Replace with your Database Name
-    'user': 'postgres', #Replace with your Postgres Username
-    'password': '#PostgreSQL1008*', #Replace with your Postgres Passsword
+    'dbname': 'DataBase_Name', # Replace with your Database Name
+    'user': 'Username', #Replace with your Postgres Username
+    'password': 'Password', #Replace with your Postgres Passsword
     'host': 'localhost',
     'port': '5432'
 }
