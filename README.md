@@ -1,7 +1,7 @@
 # COMP3005_Ass4
 
 **Video Description:**
-Youtube Link - 
+Youtube Link - https://youtu.be/2UIUWEUmXC8
 
 **Setup Instuctions for the Database:**
 1. Open Pgadmin on your system
